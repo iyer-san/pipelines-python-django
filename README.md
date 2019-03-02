@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/santoshiyer/santosh-test/_apis/build/status/iyer-san.pipelines-python-django?branchName=master)](https://dev.azure.com/santoshiyer/santosh-test/_build/latest?definitionId=1&branchName=master)
+
 # Sample Python app for Azure Pipelines docs
 
 For information on how to use this repository, see [Python](https://docs.microsoft.com/azure/devops/pipelines/languages/python).
